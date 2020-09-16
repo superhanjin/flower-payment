@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
         - name: payment
-          image: 271153858532.dkr.ecr.ap-northeast-2.amazonaws.com/flower-payment:v1 
+          image: 271153858532.dkr.ecr.ap-southeast-1.amazonaws.com/admin18-flower-payment:v1
           ports:
             - containerPort: 8080
           readinessProbe:
