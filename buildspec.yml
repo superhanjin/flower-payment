@@ -2,7 +2,7 @@ version: 0.2
 
 env:
   variables:
-    _PROJECT_NAME: "flower-payment"
+    _PROJECT_NAME: "admin18-flower-payment"
 
 phases:
   install:
